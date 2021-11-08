@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LabSevenRegularExpressions\bin\Debug\netcoreapp3.1\LabSevenRegularExpressions.exe
+C:\Users\User\source\repos\LabSevenRegularExpressions\bin\Debug\netcoreapp3.1\LabSevenRegularExpressions.deps.json
+C:\Users\User\source\repos\LabSevenRegularExpressions\bin\Debug\netcoreapp3.1\LabSevenRegularExpressions.runtimeconfig.json
+C:\Users\User\source\repos\LabSevenRegularExpressions\bin\Debug\netcoreapp3.1\LabSevenRegularExpressions.runtimeconfig.dev.json
+C:\Users\User\source\repos\LabSevenRegularExpressions\bin\Debug\netcoreapp3.1\LabSevenRegularExpressions.dll
+C:\Users\User\source\repos\LabSevenRegularExpressions\bin\Debug\netcoreapp3.1\LabSevenRegularExpressions.pdb
+C:\Users\User\source\repos\LabSevenRegularExpressions\obj\Debug\netcoreapp3.1\LabSevenRegularExpressions.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LabSevenRegularExpressions\obj\Debug\netcoreapp3.1\LabSevenRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LabSevenRegularExpressions\obj\Debug\netcoreapp3.1\LabSevenRegularExpressions.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LabSevenRegularExpressions\obj\Debug\netcoreapp3.1\LabSevenRegularExpressions.AssemblyInfo.cs
+C:\Users\User\source\repos\LabSevenRegularExpressions\obj\Debug\netcoreapp3.1\LabSevenRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabSevenRegularExpressions\obj\Debug\netcoreapp3.1\LabSevenRegularExpressions.dll
+C:\Users\User\source\repos\LabSevenRegularExpressions\obj\Debug\netcoreapp3.1\LabSevenRegularExpressions.pdb
+C:\Users\User\source\repos\LabSevenRegularExpressions\obj\Debug\netcoreapp3.1\LabSevenRegularExpressions.genruntimeconfig.cache
